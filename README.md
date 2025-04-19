@@ -70,7 +70,11 @@ A full-stack web application that enables bulk ordering of vegetables and fruits
 
 
 Admin login details:
+
+
 email:Pranav2105@gmail.com
+
+
 password:Pra@123
 
 
